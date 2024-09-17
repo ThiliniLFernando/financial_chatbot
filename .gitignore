@@ -1,0 +1,20 @@
+# Python files
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# IDE configuration files
+.idea/workspace.xml
+.idea/
+.vscode/
+
+# Other files to ignore
+*.swp
+*~
+
+new_env/
+chunks.npy
+faiss_index.bin
